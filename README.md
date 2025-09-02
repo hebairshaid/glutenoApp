@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+You can read the full documentation here:  
+https://drive.google.com/drive/folders/1RAQkIYIMEyV3UlDNtZCzTJW00-qZJdYd?usp=sharing
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
