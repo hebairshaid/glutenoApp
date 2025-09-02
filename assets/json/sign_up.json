@@ -1,0 +1,74 @@
+{
+    "users": [
+      {
+        "username": "newUser1",
+        "email": "newUser1@example.com",
+        "phone": "3216549870",
+        "password": "newpassword123",
+        "confirmPassword": "newpassword123"
+      },
+      {
+        "username": "newUser2",
+        "email": "newUser2@example.com",
+        "phone": "4327651098",
+        "password": "newpassword456",
+        "confirmPassword": "newpassword456"
+      },
+      {
+        "username": "newUser3",
+        "email": "newUser3@example.com",
+        "phone": "5438762109",
+        "password": "newpassword789",
+        "confirmPassword": "newpassword789"
+      },
+      {
+        "username": "newUser4",
+        "email": "newUser4@example.com",
+        "phone": "6549873210",
+        "password": "newpassword101",
+        "confirmPassword": "newpassword101"
+      },
+      {
+        "username": "newUser5",
+        "email": "newUser5@example.com",
+        "phone": "7650984321",
+        "password": "newpassword202",
+        "confirmPassword": "newpassword202"
+      },
+      {
+        "username": "newUser6",
+        "email": "newUser6@example.com",
+        "phone": "8762095432",
+        "password": "newpassword303",
+        "confirmPassword": "newpassword303"
+      },
+      {
+        "username": "newUser7",
+        "email": "newUser7@example.com",
+        "phone": "9873106543",
+        "password": "newpassword404",
+        "confirmPassword": "newpassword404"
+      },
+      {
+        "username": "newUser8",
+        "email": "newUser8@example.com",
+        "phone": "0984217654",
+        "password": "newpassword505",
+        "confirmPassword": "newpassword505"
+      },
+      {
+        "username": "newUser9",
+        "email": "newUser9@example.com",
+        "phone": "1095328765",
+        "password": "newpassword606",
+        "confirmPassword": "newpassword606"
+      },
+      {
+        "username": "newUser10",
+        "email": "newUser10@example.com",
+        "phone": "2106439876",
+        "password": "newpassword707",
+        "confirmPassword": "newpassword707"
+      }
+    ]
+  }

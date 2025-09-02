@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "874609956954",
+    "project_id": "gluteno-c151d",
+    "storage_bucket": "gluteno-c151d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874609956954:android:7219746f44712209a4e063",
+        "android_client_info": {
+          "package_name": "com.example.gluteno"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874609956954-3ghradns8vonj839qb7hjlqfj030lnu4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gluteno",
+            "certificate_hash": "4067ab11f040c0a7bafb623eeef361c69a8ffbcc"
+          }
+        },
+        {
+          "client_id": "874609956954-jn77p55r330idnkajj7397vrikq04pe3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQQyqcPdlEH-rvtrkePr99B5s7cGIrc7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874609956954-jn77p55r330idnkajj7397vrikq04pe3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

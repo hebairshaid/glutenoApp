@@ -1,0 +1,2 @@
+D:/Flutter apps/gluteno/android/app/.cxx/Debug/s3k736d2/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/Flutter apps/gluteno/android/app/.cxx/Debug/s3k736d2/arm64-v8a/CMakeFiles/rebuild_cache.dir
